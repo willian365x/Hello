@@ -1,3 +1,5 @@
+package fundamentals
+
 fun vogais(nome: String) {
     val vogais = setOf("aeiou")
     for (x in nome) {

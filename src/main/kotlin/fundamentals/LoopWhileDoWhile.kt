@@ -1,3 +1,5 @@
+package fundamentals
+
 fun printCakeEat() = println("Cake eat!")
 fun printCakeBake() = println("Cake bake!!")
 

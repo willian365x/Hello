@@ -1,3 +1,5 @@
+package fundamentals
+
 val x_point = 15
 val ezListMapPoints: MutableMap<Int,Int> = mutableMapOf(1 to 100, 2 to 100, 3 to 100)
 

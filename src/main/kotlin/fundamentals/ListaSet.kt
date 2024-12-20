@@ -1,3 +1,5 @@
+package fundamentals
+
 val issuesDesc = mutableSetOf("Issues1", "Issues2", "Issues3")
 
 fun addNewIssues(desc: String) = issuesDesc.add(desc)

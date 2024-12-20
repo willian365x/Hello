@@ -1,3 +1,5 @@
+package fundamentals
+
 val listNumbers: MutableList<Int> = mutableListOf(1,2,3)
 val sudoers: List<Int> = listNumbers
 

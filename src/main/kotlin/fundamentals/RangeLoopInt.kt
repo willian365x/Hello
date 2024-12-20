@@ -1,3 +1,5 @@
+package fundamentals
+
 fun contagem(n: Int) {
     for (j in 1..n) {
         Thread.sleep(500)

@@ -1,3 +1,5 @@
+package fundamentals
+
 fun main(){
     val frutas = setOf("maçã","pêra","uva")
     //val fruits = frutas
