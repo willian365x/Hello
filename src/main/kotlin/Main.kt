@@ -9,4 +9,6 @@ fun main() {
     printIsNotNull("Carla")
 
     printTwoCustomer("Jonathan",null)
+
+    getNullableLength("Carla")
 }
